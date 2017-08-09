@@ -1,3 +1,4 @@
-print "Hola mundo!"
+import wea
 
+wea.hola()
 
